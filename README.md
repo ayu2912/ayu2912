@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AYUSHI SINGH and I'm a CSE MAJOR STUDENT at SILICON UNIBERSITY, BHUBANESHWAR, from PATNA</h2>
+<h2 align="left">Hi 👋! I am AYUSHI SINGH and I'm a CSE MAJOR student,currently studying in BHUBANESHWAR,  from PATNA</h2>
 
 ###
 
