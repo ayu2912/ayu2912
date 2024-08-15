@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am AYUSHI SINGH and I'm a CSE MAJOR student,currently studying in BHUBANESHWAR,  from PATNA</h2>
+<h2 align="left">Hi 👋! I am AYUSHI ,currently trying out different things in tech</h2>
 
 ###
 
