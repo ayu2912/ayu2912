@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am AYUSHI ,currently trying out different things in tech</h2>
+<h2 align="left"> manipulating data </h2>
 
 ###
 
