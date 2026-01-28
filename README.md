@@ -1,4 +1,4 @@
-<h2 align="left"> manipulating data </h2>
+<h2 align="left"> Anything and everything related to data and ml </h2>
 
 ###
 
